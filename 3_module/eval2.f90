@@ -18,4 +18,5 @@ program main
     a(2,:) = (/-2.0d0, 1.0d0 /)
     x = eval2x2mat(a)
     write(*,*) x
+    ! test adding
 end program
